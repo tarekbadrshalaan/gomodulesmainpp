@@ -9,5 +9,5 @@ import (
 func main() {
 	fmt.Println("Hi from Main app")
 
-	gomodulesdepone.GetData()
+	fmt.Println(gomodulesdepone.GetData())
 }
