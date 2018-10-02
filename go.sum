@@ -1,2 +1,6 @@
 github.com/tarekbadrshalaan/gomodulesdepone v1.1.0 h1:crumMylBlvvdCKQKQ6X2eqUi3d5ySjtXuMxBrYLtVlQ=
 github.com/tarekbadrshalaan/gomodulesdepone v1.1.0/go.mod h1:EbpJ5EODnyr+dkoaEwULTBFSTZk4F4PvPvUJn2oyJEg=
+github.com/tarekbadrshalaan/gomodulesdepone/v2 v2.0.0 h1:6+zxQUtVdO5Z69WmVNHo4rfXhgvlBHXDQbXJnyPuLAY=
+github.com/tarekbadrshalaan/gomodulesdepone/v2 v2.0.0/go.mod h1:BK8QquhpKll+LlBAI5dTGWsmw6mfB3umtDNkGth2GP8=
+github.com/tarekbadrshalaan/gomodulesdeptwo v1.0.0 h1:+4/fxEuepmP5XqIkHTdMbu77TRGi0DhfV5B/Pge+4cQ=
+github.com/tarekbadrshalaan/gomodulesdeptwo v1.0.0/go.mod h1:XEh1nKEUj4titE4W5ggR8WCa1yNSRdFPdswuYJHjP0E=

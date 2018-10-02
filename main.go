@@ -4,6 +4,7 @@ import (
 	"fmt"
 
 	"github.com/tarekbadrshalaan/gomodulesdepone"
+	"github.com/tarekbadrshalaan/gomodulesdeptwo"
 )
 
 func main() {
@@ -13,4 +14,7 @@ func main() {
 
 	//using new feature in gomodulesdepone
 	fmt.Println(gomodulesdepone.GetExtraData())
+
+	//using gomodulesdeptwo with calling gomodulesdepone/v2
+	fmt.Println(gomodulesdeptwo.GetDatadepone())
 }
